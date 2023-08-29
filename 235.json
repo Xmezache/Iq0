@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "235",
+    "name": "سليمان القلشي",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/238_1350763800.jpg",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "27",
+    "progress_bar": {
+      "total_episodes": 1,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "نرمين أحمد",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 404,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "3056",
+        "title": "المورد الثقافى وهموم شعوب الثورات العربية ",
+        "show_id": 235,
+        "description": "بصوت : نرمين أحمد\n        \n        تاريخ النشر : 20/10/2012\n                \n                المصدر : http://tahrirnews.com/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%89-%D9%88%D9%87%D9%85%D9%88%D9%85-%D8%B4%D8%B9%D9%88%D8%A8-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9/",
+        "file": "https://stream.iqraaly.com/v1/stream-start/ZvlwWmMOjyrP0YnzeaG5",
+        "duration": "404",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/238_1350763800.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "3056",
+        "episode_type_id": 4,
+        "book_name": "سليمان القلشي"
+      }
+    ]
+  },
+  "lists": []
+}

@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "271",
+    "name": "عمرو نصر الدين",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "27",
+    "progress_bar": {
+      "total_episodes": 1,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "نرمين أحمد",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 499,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "3628",
+        "title": "من قليوب إلى أسيوط.. الإصلاح المأزوم وأزمة سكك حديد مصر ",
+        "show_id": 271,
+        "description": "بصوت : نرمين أحمد\n        \n        تاريخ النشر : 22/11/2012\n                \n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=22112012&amp;id=fe3bd911-db58-4bcd-9870-42c60a19db22",
+        "file": "https://stream.iqraaly.com/v1/stream-start/XeKzdm3AG6l7OYbyxoLw",
+        "duration": "499",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/",
+        "size": "0",
+        "is_paid": "0",
+        "position": "3628",
+        "episode_type_id": 4,
+        "book_name": "عمرو نصر الدين"
+      }
+    ]
+  },
+  "lists": []
+}

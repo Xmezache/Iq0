@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "288",
+    "name": "غسان زكريا",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "27",
+    "progress_bar": {
+      "total_episodes": 1,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "نرمين أحمد",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 450,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "4207",
+        "title": " فى الدولة الدينية",
+        "show_id": 288,
+        "description": "بصوت : نرمين أحمد\n        \n        تاريخ النشر : 16/12/2012\n                \n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=16122012&amp;id=7e53b01e-b994-43ef-b00a-2cdeb400fee4",
+        "file": "https://stream.iqraaly.com/v1/stream-start/brBLGPe0BVoe0752REK3",
+        "duration": "450",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/",
+        "size": "0",
+        "is_paid": "0",
+        "position": "4207",
+        "episode_type_id": 4,
+        "book_name": "غسان زكريا"
+      }
+    ]
+  },
+  "lists": []
+}

@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "255",
+    "name": "ميت رومنى",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/258_1352033241.jpg",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "27",
+    "progress_bar": {
+      "total_episodes": 1,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "نرمين أحمد",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 322,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "3312",
+        "title": "لن يتجرأ علينا أحد ",
+        "show_id": 255,
+        "description": "بصوت : نرمين أحمد\n        \n        تاريخ النشر : 04/11/2012\n                \n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=04112012&amp;id=317cc19d-b8f5-4314-b524-ed338373623e",
+        "file": "https://stream.iqraaly.com/v1/stream-start/ZvlwWmMOjywL0YnzeaG5",
+        "duration": "322",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/258_1352033241.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "3312",
+        "episode_type_id": 4,
+        "book_name": "ميت رومنى"
+      }
+    ]
+  },
+  "lists": []
+}

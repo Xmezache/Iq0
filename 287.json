@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "287",
+    "name": "سارة خورشيد",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "27",
+    "progress_bar": {
+      "total_episodes": 2,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "نرمين أحمد",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 884,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "4135",
+        "title": " عن تجاهل شهادات الضحايا",
+        "show_id": 287,
+        "description": "بصوت : نرمين أحمد\n        \n        تاريخ النشر : 15/12/2012\n                \n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=15122012&amp;id=1db9a0b2-b08f-4096-9b6a-06cb3e1a9369",
+        "file": "https://stream.iqraaly.com/v1/stream-start/M9EVXGP0zzr70olRvW32",
+        "duration": "435",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/",
+        "size": "0",
+        "is_paid": "0",
+        "position": "4135",
+        "episode_type_id": 4,
+        "book_name": "سارة خورشيد"
+      },
+      {
+        "id": "4888",
+        "title": " عن حادث البدرشين والخجل من النجاة",
+        "show_id": 287,
+        "description": "بصوت : نرمين أحمد\r\n        \r\n        تاريخ النشر : 19/01/2013\r\n                \r\n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=19012013&amp;id=e7c994ca-44ab-4a3f-98f9-2947e3571f0e",
+        "file": "https://stream.iqraaly.com/v1/stream-start/lLa8K97O2j83O6MzZBeX",
+        "duration": "449",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/",
+        "size": "0",
+        "is_paid": "0",
+        "position": "4888",
+        "episode_type_id": 4,
+        "book_name": "سارة خورشيد"
+      }
+    ]
+  },
+  "lists": []
+}
