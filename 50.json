@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "50",
+    "name": "روبرت جي. صمويلسون",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/50_1353657216.jpg",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "28",
+    "progress_bar": {
+      "total_episodes": 2,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "مي مجدي",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 544,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "1105",
+        "title": "كيـف فـاز جيش مصـــر؟",
+        "show_id": 50,
+        "description": "بصوت : مي مجدي\n        \n        تاريخ النشر : 03/07/2012\n                \n                المصدر : http://www.shorouknews.com/columns/view.aspx?cdate=02072012&amp;id=35fefafe-113c-4554-b53f-29d7c1d22451",
+        "file": "https://stream.iqraaly.com/v1/stream-start/3zo5xn4QOqqWOgZ2dblw",
+        "duration": "372",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/50_1353657216.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "1105",
+        "episode_type_id": 4,
+        "book_name": "روبرت جي. صمويلسون"
+      },
+      {
+        "id": "4176",
+        "title": "إسرائيل والسلطة الفلسطينية: لا لانتفاضة ثالثة",
+        "show_id": 50,
+        "description": "بصوت : مي مجدي\n        \n        تاريخ النشر : 17/12/2012\n                \n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=17122012&amp;id=7fc4aa76-c073-4506-8599-b101f9900b74",
+        "file": "https://stream.iqraaly.com/v1/stream-start/XrD2jKR1Dkg8A7G3pxel",
+        "duration": "172",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/50_1353657216.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "4176",
+        "episode_type_id": 4,
+        "book_name": "روبرت جي. صمويلسون"
+      }
+    ]
+  },
+  "lists": [
+    {
+      "title": "كتب لنفس الراوى",
+      "books": [
+        {
+          "id": "1172",
+          "name": "رقص طفيف",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1172_1525701511.jpg",
+          "author_id": "264",
+          "author": "محمود عبده",
+          "publisher_name": "دار الشروق",
+          "about": "\"وحدهما في المرسم، القُبلات المسروقة لم تعد كافية، الحجرة التي في الطابق الأعلى لا يرتادها أحد، الفستان الأزرق الدافئ المعَّلق على كتفيها بحمّالتين عريضتين هو خيارها الأفضل دائمًا، ترتديه فتشبه زهرة التيوليب، رقيق ينسابُ في اتساعٍ كلّما نزلَ وينتهي بالكاد عند ركبتيها، وخطتُها كانت بسيطة، عندما تحين اللحظة المناسبة ستُزيح الشال الصوفي عن كاهلها، سينبهر بانسيابِ رقبتها وباستدارة كتفيها، سيقتربُ منها، يُقبِّلُ أسفل أذنيها ثم يُزيح الحمالتين...\"\r\nيرتحل سعيد من بلدته النائية ليدْرُس في المدينة الساحلية متعددة الثقافات. تنتقل نور من وجودٍ راكد إلى مدار حافل بالأحداث والشخصيات، يثور فيه الغبار والصخب. تخوض سماح تجاربها الأولى في التحليق؛ تقع وتقوم من جديد.\r\nنتدافع جميعًا ونتخبط، ننتقي خياراتنا عبر مسارات شائهة الملامح، نقدِّمُ خطوةً أو نؤخر أخرى كما لو كنا نمارس رقصًا طفيفًا على غير مثال سابق.",
+          "is_paid": "1",
+          "narrator_id": "28",
+          "narrator_name": "مي مجدي",
+          "rate": 3.710526315789474
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "71",
+    "name": "هيثم دبور",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/71_1353656556.jpg",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "",
+    "progress_bar": {
+      "total_episodes": 0,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 0,
+    "size_in_bytes": 0,
+    "episodes": []
+  },
+  "lists": []
+}
