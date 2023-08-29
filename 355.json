@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "355",
+    "name": "أشرف سويلم",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "27",
+    "progress_bar": {
+      "total_episodes": 2,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "نرمين أحمد",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 759,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "5854",
+        "title": "أمى ستعيش ",
+        "show_id": 355,
+        "description": "بصوت : نرمين أحمد\r\n        \r\n        تاريخ النشر : 23/02/2013\r\n                \r\n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=23022013&amp;id=f9562fc9-7d46-44d7-a2ea-6fc3e6ae93b6",
+        "file": "https://stream.iqraaly.com/v1/stream-start/rqYyGlgAaLp9OVzvBRw6",
+        "duration": "320",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/",
+        "size": "0",
+        "is_paid": "0",
+        "position": "5854",
+        "episode_type_id": 4,
+        "book_name": "أشرف سويلم"
+      },
+      {
+        "id": "5941",
+        "title": "اختبار الثورة ",
+        "show_id": 355,
+        "description": "بصوت : نرمين أحمد\r\n        \r\n        تاريخ النشر : 02/03/2013\r\n                \r\n                المصدر : http://shorouknews.com/columns/view.aspx?cdate=02032013&amp;id=0559c7c1-49eb-4b38-a933-01205b1e64a9",
+        "file": "https://stream.iqraaly.com/v1/stream-start/67Wn8ZrOExxb0XgeEvmq",
+        "duration": "439",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/",
+        "size": "0",
+        "is_paid": "0",
+        "position": "5941",
+        "episode_type_id": 4,
+        "book_name": "أشرف سويلم"
+      }
+    ]
+  },
+  "lists": []
+}
