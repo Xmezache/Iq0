@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "112",
+    "name": "الهيئة العامة للكتاب",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/112_1343879209.png",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "5",
+    "progress_bar": {
+      "total_episodes": 1,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "عبدالرحمن وهبة",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 724,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "1396",
+        "title": "اليات التلفي في دراما توفيق الحكيم",
+        "show_id": 112,
+        "description": "بصوت : عبدالرحمن وهبة\n        \n        تاريخ النشر : 02/08/2012\n                \n                المصدر : www.gebo.gov.eg",
+        "file": "https://stream.iqraaly.com/v1/stream-start/a73Bk6l90ewoAmbMRjYn",
+        "duration": "724",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/112_1343879209.png",
+        "size": "0",
+        "is_paid": "0",
+        "position": "1396",
+        "episode_type_id": 4,
+        "book_name": "الهيئة العامة للكتاب"
+      }
+    ]
+  },
+  "lists": []
+}

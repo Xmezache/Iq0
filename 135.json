@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "135",
+    "name": "محمد عبده",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/135_1344765058.jpg",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "28",
+    "progress_bar": {
+      "total_episodes": 2,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "مي مجدي",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 545,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "1601",
+        "title": "مصر اللى كانت.. ومصر اللى جاية",
+        "show_id": 135,
+        "description": "بصوت : مي مجدي\n        \n        تاريخ النشر : 11/08/2012\n                \n                المصدر : http://tahrirnews.com/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%84%D9%89-%D9%83%D8%A7%D9%86%D8%AA-%D9%88%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%84%D9%89-%D8%AC%D8%A7%D9%8A%D8%A9/",
+        "file": "https://stream.iqraaly.com/v1/stream-start/wKqryb7oAZ8w0MmlDV32",
+        "duration": "256",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/135_1344765058.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "1601",
+        "episode_type_id": 4,
+        "book_name": "محمد عبده"
+      },
+      {
+        "id": "1997",
+        "title": "التحرش فى عصر «أمير المؤمنين»",
+        "show_id": 135,
+        "description": "بصوت : مي مجدي\n        \n        تاريخ النشر : 01/09/2012\n                \n                المصدر : http://tahrirnews.com/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/%d8%a7%d9%84%d8%aa%d8%ad%d8%b1%d8%b4-%d9%81%d9%89-%d8%b9%d8%b5%d8%b1-%c2%ab%d8%a3%d9%85%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%a4%d9%85%d9%86%d9%8a%d9%86%c2%bb/",
+        "file": "https://stream.iqraaly.com/v1/stream-start/6vJZbMjOyPPq0ezrkNng",
+        "duration": "289",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/135_1344765058.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "1997",
+        "episode_type_id": 4,
+        "book_name": "محمد عبده"
+      }
+    ]
+  },
+  "lists": [
+    {
+      "title": "كتب لنفس الراوى",
+      "books": [
+        {
+          "id": "1172",
+          "name": "رقص طفيف",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1172_1525701511.jpg",
+          "author_id": "264",
+          "author": "محمود عبده",
+          "publisher_name": "دار الشروق",
+          "about": "\"وحدهما في المرسم، القُبلات المسروقة لم تعد كافية، الحجرة التي في الطابق الأعلى لا يرتادها أحد، الفستان الأزرق الدافئ المعَّلق على كتفيها بحمّالتين عريضتين هو خيارها الأفضل دائمًا، ترتديه فتشبه زهرة التيوليب، رقيق ينسابُ في اتساعٍ كلّما نزلَ وينتهي بالكاد عند ركبتيها، وخطتُها كانت بسيطة، عندما تحين اللحظة المناسبة ستُزيح الشال الصوفي عن كاهلها، سينبهر بانسيابِ رقبتها وباستدارة كتفيها، سيقتربُ منها، يُقبِّلُ أسفل أذنيها ثم يُزيح الحمالتين...\"\r\nيرتحل سعيد من بلدته النائية ليدْرُس في المدينة الساحلية متعددة الثقافات. تنتقل نور من وجودٍ راكد إلى مدار حافل بالأحداث والشخصيات، يثور فيه الغبار والصخب. تخوض سماح تجاربها الأولى في التحليق؛ تقع وتقوم من جديد.\r\nنتدافع جميعًا ونتخبط، ننتقي خياراتنا عبر مسارات شائهة الملامح، نقدِّمُ خطوةً أو نؤخر أخرى كما لو كنا نمارس رقصًا طفيفًا على غير مثال سابق.",
+          "is_paid": "1",
+          "narrator_id": "28",
+          "narrator_name": "مي مجدي",
+          "rate": 3.710526315789474
+        }
+      ]
+    }
+  ]
+}
